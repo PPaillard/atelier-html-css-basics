@@ -21,7 +21,7 @@ Règles pour cet atelier : construire et concevoir une page web uniquement avec 
 - Dans *style.css*, ajoutez le code suivant :
   ```css
   h1 {
-    color: #a306b6; 
+    color: #1175c3; 
   }
   ```
 - Ouvrez *index.html* dans votre navigateur et vérifiez que le message "Hello world !!!" s'affiche en bleu.
@@ -30,7 +30,7 @@ Bon travail !
 
 ## Mise en page de votre site
 
-Vous devrez créer une page d'accueil de base en suivant la mise en page ci-dessous (**ne cherchez pas** à être pixel-perfect, cette image est juste un guide, la couleur rose est remplacée par du violet).
+Vous devrez créer une page d'accueil de base en suivant la mise en page ci-dessous (**ne cherchez pas** à être pixel-perfect, cette image est juste un guide).
 
 <a href="./desktop_layout.png" target="_blank">Ouvrir dans un nouvel onglet <i class="bi bi-box-arrow-up-right"></i></a>  
 ![Mise en page à reproduire](desktop_layout.png)
@@ -48,8 +48,8 @@ body {
 
 ### Barre de navigation
 
-- Essayez de reproduire la barre de navigation. Commencez par créer une balise `<nav>` et ajoutez la couleur de fond `#a306b6`.
-- Ensuite, analysez la structure de la barre de navigation. Vous avez un nom de marque "Workshop" en haut à gauche et un groupe d'éléments de menu en dessous.
+- Essayez de reproduire la barre de navigation. Commencez par créer une balise `<nav>` et ajoutez la couleur de fond `#1175c3`.
+- Ensuite, analysez la structure de la barre de navigation. Vous avez "Workshop" en haut à gauche et un groupe d'éléments de menu en dessous.
 - Utiliser une liste non ordonnée peut être une bonne idée pour le groupe de menus, mais n'oubliez pas de l'afficher horizontalement et sans puces.
 
 ### En-tête
@@ -72,7 +72,7 @@ body {
 [Guide complet sur le centrage en CSS](https://css-tricks.com/centering-css-complete-guide/)
 {: .alert-info }
 
-### Section "Articles en vedette"
+### Section "Articles en avant"
 
 - Ajoutez une nouvelle section.
 - Ajoutez un `<h2>` avec un texte approprié.
