@@ -1,7 +1,6 @@
 # Atelier sur les bases de HTML/CSS
 
 Règles pour cet atelier : construire et concevoir une page web uniquement avec une structure HTML sémantique (pas de classe, pas d'ID en CSS).
-{: .alert-warning }
 
 ## Initialisation
 
@@ -36,7 +35,6 @@ Vous devrez créer une page d'accueil de base en suivant la mise en page ci-dess
 ![Mise en page à reproduire](desktop_layout.png)
 
 Les navigateurs appliquent par défaut des tailles pour chaque élément HTML (marges, taille de police, etc.). Cela peut être utile, mais parfois il est préférable de réinitialiser certains comportements. Dans cet atelier, il peut être intéressant de supprimer la marge sur `<body>`. De plus, utiliser `box-sizing: border-box` sur chaque élément vous aidera à gérer la taille des éléments (plus d'infos sur [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)).
-{: .alert-info }
 ```css
 * {
   box-sizing: border-box;
@@ -70,7 +68,6 @@ body {
 - Enfin, vous pouvez utiliser la propriété `margin` pour centrer le bloc horizontalement.
 
 [Guide complet sur le centrage en CSS](https://css-tricks.com/centering-css-complete-guide/)
-{: .alert-info }
 
 ### Section "Articles en avant"
 
