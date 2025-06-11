@@ -46,14 +46,14 @@ body {
 
 ### Barre de navigation
 
-- Essayez de reproduire la barre de navigation. Commencez par créer une balise `<nav>` et ajoutez la couleur de fond `#1175c3`.
+- Essayez de reproduire la barre de navigation. Commencez par créer une balise `<nav>` et ajoutez la couleur de fond `#1175c3` à la nav.
 - Ensuite, analysez la structure de la barre de navigation. Vous avez "Workshop" en haut à gauche et un groupe d'éléments de menu en dessous.
 - Utiliser une liste non ordonnée peut être une bonne idée pour le groupe de menus, mais n'oubliez pas de l'afficher horizontalement et sans puces.
 
 ### En-tête
 
 - Encapsulez votre balise `<h1>` dans une balise `<header>` et ajoutez une hauteur minimale de 250px.
-- Ajoutez une image d'arrière-plan (par exemple une image aléatoire depuis [Loremflicker](https://loremflickr.com/1920/600) ou [Picsum](https://picsum.photos/1920/600)).
+- Ajoutez une image d'arrière-plan à votre `<header>` (par exemple une image aléatoire depuis [Loremflicker](https://loremflickr.com/1920/600) ou [Picsum](https://picsum.photos/1920/600)).
 - Centrez votre titre principal et ajustez la taille et la couleur de la police si nécessaire.
 
 > Astuce : [Gérer la taille de l'arrière-plan](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
